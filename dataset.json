@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Complete dataset of all active restaurant listings in Gulfport, Mississippi. Filtered by the Restaurants category group with verified business profiles, review sentiment, competitive analysis, and contact information. Refreshed weekly.",
+  "config_name": "All Restaurants in Gulfport, Mississippi, US",
+  "export_job_id": "bf5b07f3-c81f-4f66-a212-e691c40849f1",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 303059,
+  "location_name": "Gulfport",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-gulfport-mississippi-us-sample-303059",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/303059/beamstation_303059_restaurants-us-ms_SAMPLE_DIST.csv",
+  "sample_pct": 9.75,
+  "sample_records": 31,
+  "sample_sha256": "289ffe34746be172689667739f609979f42bf64a3b04bc6ca66d825b949ec775",
+  "sample_size_bytes": 128099,
+  "total_records": 318,
+  "updated_at": "2026-04-09T14:31:11.087178+00:00"
+}
