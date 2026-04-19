@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bf5b07f3-c81f-4f66-a212-e691c40849f1",
+  "export_job_id": "34ab0fe4-205f-4b60-9b54-998b8510fd11",
   "id_short": 303059,
-  "published_at": "2026-04-11T07:22:56Z",
+  "published_at": "2026-04-19T07:58:29Z",
   "repo_name": "all-restaurants-in-gulfport-mississippi-us-sample-303059",
   "sample_asset_name": "beamstation_303059_restaurants-us-ms_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/303059/beamstation_303059_restaurants-us-ms_SAMPLE_DIST.csv",
-  "sample_records": 31,
-  "sample_sha256": "289ffe34746be172689667739f609979f42bf64a3b04bc6ca66d825b949ec775",
-  "sample_size_bytes": 128099,
-  "total_records": 318
+  "sample_records": 29,
+  "sample_sha256": "6482860757cca05826f50fb8c609c7ac6a5132fa9b077ff984aa9a9f762bd896",
+  "sample_size_bytes": 101628,
+  "total_records": 291
 }
