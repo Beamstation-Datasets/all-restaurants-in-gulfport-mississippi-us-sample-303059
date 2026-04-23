@@ -1,6 +1,6 @@
 # All Restaurants in Gulfport, Mississippi, US
 
-> Free BeamStation sample export with 29 rows and masked direct-contact fields.
+> Free BeamStation sample export with 28 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `303059` |
 | Location | Gulfport |
 | Category | Restaurants |
-| Full dataset size | 291 records |
-| Free sample size | 29 records (9.97%) |
-| Last export | 2026-04-16T15:52:24.873233+00:00 |
+| Full dataset size | 285 records |
+| Free sample size | 28 records (9.82%) |
+| Last export | 2026-04-23T13:43:47.056438+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-gulfport-mississippi-us-sample-303059/releases/download/sample-latest/beamstation_303059_restaurants-us-ms_SAMPLE_DIST.csv) |
 
 ## What is in this sample
